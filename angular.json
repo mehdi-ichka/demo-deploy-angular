@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-deploy-demo"
+    }
+  },
+  "defaultProject": "angular-deploy-demo",
+  "cli": {
+    "analytics": "f0c42ab5-b6d5-486d-ba58-715ef5b42c29"
+  }
 }
